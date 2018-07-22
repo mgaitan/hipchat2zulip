@@ -1,5 +1,11 @@
-# Byte-compiled / optimized / DLL files
+# project exclusion
+*.db
+*.log
+zuliprc
+local_config.py
+
 __pycache__/
+
 *.py[cod]
 *$py.class
 

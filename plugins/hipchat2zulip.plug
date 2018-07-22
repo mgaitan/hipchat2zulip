@@ -1,0 +1,10 @@
+[Core]
+name = hipchat2zulip
+module = hipchat2zulip
+
+[Documentation]
+description = Hipchat to Zulip bridge
+
+[Python]
+version = 3
+

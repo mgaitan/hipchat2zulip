@@ -1,0 +1,4 @@
+[api]
+email=<your bot email>
+key=<your bot key>
+site=https://<your_site>.zulipchat.com
